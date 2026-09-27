@@ -7,3 +7,5 @@ __pycache__/
 dist/
 build/
 *.egg-info/
+.primer_design_data/
+/tmp-new_pipeline.py
